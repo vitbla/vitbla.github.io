@@ -1,6 +1,9 @@
 function init()
 {
-    console.log("Илья, Артём");
+    console.log("hi m1curoshi");
+    document.getElementById("me").onclick = () => {
+        alert("Hey");
+    }
 }
 
 init();
