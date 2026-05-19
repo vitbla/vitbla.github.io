@@ -2,6 +2,7 @@
     text-align: center;
     color: rgb(99, 63, 32);
     font-size: 40px;
+    font-family: "Knewave", serif;
 }
 
 .body {
@@ -15,4 +16,5 @@
     background-color:rgb(243, 202, 153);
     padding-left: 50px;
     border: 10px solid rgb(193, 174, 125);
+    border-radius: 30px;
 }
