@@ -1,4 +1,18 @@
 .head {
     text-align: center;
-    color: blueviolet;
+    color: rgb(99, 63, 32);
+    font-size: 40px;
+}
+
+.body {
+    background-color: rgb(254, 241, 185);
+}
+
+.pad {
+    width: 78%;
+    height: 1200px;
+    margin-left: 1.5%;
+    background-color:rgb(243, 202, 153);
+    padding-left: 50px;
+    border: 10px solid rgb(193, 174, 125);
 }
