@@ -1,1 +1,6 @@
-console.log("Илья, Артём");
+function init()
+{
+    console.log("Илья, Артём");
+}
+
+init();
