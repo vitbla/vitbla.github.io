@@ -1,7 +1,7 @@
 function init()
 {
     console.log("hi m1curoshi");
-    document.getElementById("me").onclick = () => {
+    document.getElementById("head").onclick = () => {
         alert("Hey");
     }
 }
