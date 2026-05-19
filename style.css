@@ -5,7 +5,7 @@
     font-family: "Knewave", serif;
 }
 
-.body {
+body {
     background-color: rgb(254, 241, 185);
 }
 
@@ -17,4 +17,8 @@
     padding-left: 50px;
     border: 10px solid rgb(193, 174, 125);
     border-radius: 30px;
+    font-family: "Knewave", serif;
+}
+.pad p {
+    font-size: 20px;
 }
