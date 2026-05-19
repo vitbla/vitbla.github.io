@@ -1,6 +1,6 @@
 function init()
 {
-    console.log("Илья, Артём");
+    console.log("m1curoshi");
 }
 
 init();
